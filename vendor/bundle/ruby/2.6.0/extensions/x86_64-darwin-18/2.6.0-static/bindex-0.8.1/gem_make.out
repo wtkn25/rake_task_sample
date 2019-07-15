@@ -1,0 +1,15 @@
+current directory: /Users/bell/implement/rails_apps/rake_task_sample/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/bell/.anyenv/envs/rbenv/versions/2.6.3/bin/ruby -I /Users/bell/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20190716-37469-7h6mia.rb extconf.rb
+creating Makefile
+
+current directory: /Users/bell/implement/rails_apps/rake_task_sample/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/bell/implement/rails_apps/rake_task_sample/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/bell/implement/rails_apps/rake_task_sample/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190716-37469-mb2rpt/skiptrace/internal
